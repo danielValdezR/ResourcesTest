@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResourcesTest", "src\ResourcesTest.csproj", "{7A633828-462A-4D97-A99B-48AAB8DF21F4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResourcesTest.Tests", "tests\ResourcesTest.Tests\ResourcesTest.Tests.csproj", "{951A6C18-E97C-4F6A-A52C-B6FC4DECABAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResourcesTest.Tests", "ResourcesTest.Tests\ResourcesTest.Tests.csproj", "{951A6C18-E97C-4F6A-A52C-B6FC4DECABAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
