@@ -12,6 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\ResourcesTest.csproj" />
+    <ProjectReference Include="..\src\ResourcesTest.csproj" />
   </ItemGroup>
 </Project>
